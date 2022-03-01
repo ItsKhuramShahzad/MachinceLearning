@@ -1,2 +1,2 @@
 # AdavanceMachinceLearning
-Hands on practiceon Advance Machince Learning Course
+Hands on practice on Advance Machince Learning Course
