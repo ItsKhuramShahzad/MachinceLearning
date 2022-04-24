@@ -1,5 +1,4 @@
 # AdavanceMachinceLearning
-Hands on practice on Advance Machince Learning Course
 ASSIGNMENT QUESTION:
 Classify the following dataset to distinguish between skin color and nonskin color. You may try different models but report at least the two top scoring classifiers. Use the following settings for the experiments.
 1.	Stratified 5-Fold cross-validation (the dataset is imbalanced)
