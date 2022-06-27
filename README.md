@@ -5,8 +5,7 @@ Apply any 4 /5 clustering algorithms on the following datasets and compare their
 
 1. Submit your code with comments
 
-2.
-Try to fine-tune the algorithms as much as possible to achieve the
+2. Try to fine-tune the algorithms as much as possible to achieve the
 highest score on the evaluation metrics. Provide a description file
 having details of parameters used for each algorithm (the final values
 only i.e., after trying different arrangements only use the values that
