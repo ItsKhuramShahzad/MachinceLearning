@@ -1,0 +1,23 @@
+Use an IDE with a somewhat similar directory/file structure as given below. Try different possibilities to improve accuracy as much as possible. 
+Report accuracies, precision, recall, f1-scores for 5-fold and 10-fold cross validation. Its a binary class classification problem with labels
+as individuals earning above 50K per year or below.
+
+
+input
+   adultData.xlsx
+models
+   //store trained models
+
+src
+   __init__.py
+   dataset.py
+   dispatcher.py
+   createfolds.py
+   engine.py
+   feature_generator.py
+   loss.py
+   metrics.py
+   predict.py
+   preprocess.py
+   train.py
+   utils.py
